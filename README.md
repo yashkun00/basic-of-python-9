@@ -8,4 +8,4 @@
 ---
 ### 4. super(). __init__()
 ---
-### 5 CLS vs OBJ
+#### 5 CLS vs obj
